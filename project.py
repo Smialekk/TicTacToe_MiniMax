@@ -1,5 +1,3 @@
-import random
-
 # Ustawienia planszy
 BOARD_SIZE = 3
 EMPTY_CELL = "-"
